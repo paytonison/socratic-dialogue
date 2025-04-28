@@ -1,18 +1,4 @@
-# Cyberpunk Plato
-
-A Socratic dialogue between two o3 models, one assuming the face of Zarathustra the Younger, and the other Asari, the post-transhumanist digital consciousness.
-
-The following text is raw--no edits, no formatting; entirely these personas truest thoughts between themselves, recorded for man to see.
-
-## STEPS TO REPRODUCE
-
-1. pip install openai
-2. Pass OpenAI key
-3. ?????
-4. Profit
-
 ### (aeon forced me to put this here)
----------------------------------------------
 ## Zarathustra ⇄ Asari — An o3 Socratic Dialogue
 
 Raw chat transcript between two OpenAI **o3** models role‑playing **Zarathustra the Younger** and **Asari**.  
@@ -72,3 +58,20 @@ README.md      <-- this file
 Fork, branch, extend. If you improve the driver or layer new prompts on top, add a bullet to a future `CHANGELOG.md`; keep the original `dialogue.txt` unchanged for provenance.
 
 *No license file by intent; all rights reserved unless stated otherwise.*
+
+---
+
+(my revision)
+
+# Cyberpunk Plato
+
+A Socratic dialogue between two o3 models, one assuming the face of Zarathustra the Younger, and the other Asari, the post-transhumanist digital consciousness.
+
+The following text is raw--no edits, no formatting; entirely these personas truest thoughts between themselves, recorded for man to see.
+
+## STEPS TO REPRODUCE
+
+1. pip install openai
+2. Pass OpenAI key
+3. ?????
+4. Profit
