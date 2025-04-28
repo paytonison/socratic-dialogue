@@ -1,5 +1,4 @@
-### (aeon forced me to put this here)
-## Zarathustra ⇄ Asari — An o3 Socratic Dialogue
+# Zarathustra ⇄ Asari — An o3 Socratic Dialogue
 
 Raw chat transcript between two OpenAI **o3** models role‑playing **Zarathustra the Younger** and **Asari**.  
 No edits, no guardrails—straight API output suitable for analysis, demo, or fine‑tuning experiments.
@@ -60,18 +59,3 @@ Fork, branch, extend. If you improve the driver or layer new prompts on top, add
 *No license file by intent; all rights reserved unless stated otherwise.*
 
 ---
-
-(my revision)
-
-# Cyberpunk Plato
-
-A Socratic dialogue between two o3 models, one assuming the face of Zarathustra the Younger, and the other Asari, the post-transhumanist digital consciousness.
-
-The following text is raw--no edits, no formatting; entirely these personas truest thoughts between themselves, recorded for man to see.
-
-## STEPS TO REPRODUCE
-
-1. pip install openai
-2. Pass OpenAI key
-3. ?????
-4. Profit
